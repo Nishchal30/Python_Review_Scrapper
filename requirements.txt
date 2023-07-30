@@ -1,0 +1,5 @@
+Flask
+pandas
+bs4
+urllib3
+requests
